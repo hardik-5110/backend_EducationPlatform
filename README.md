@@ -12,9 +12,6 @@ This is a server-side EdTech application built using **Express.js** , **MongoDB*
 - CORS enabled for cross-origin requests
 - Payment Integration Using Razorpay
 
-## Live Deployment
-
-You can access the live version of the application at the following link: [Live Deployment Link](https://study-notion-piyush.vercel.app/)
 
 ## Technologies Used
 
@@ -28,7 +25,7 @@ You can access the live version of the application at the following link: [Live 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Piyush12800/Study-Notion-se.git
+   git clone https://github.com/hardik-5110/backend_EducationPlatform.git
 2. Install dependencies
    ```bash
    npm install
