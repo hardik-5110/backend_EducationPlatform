@@ -1,4 +1,4 @@
-# Study Notion Server
+# Education Platform Server
 
 This is a server-side EdTech application built using **Express.js** , **MongoDB** ,  **Razorpay** and **Cloudinary**. The server provides a RESTful API for managing resources, serving as the backend for web and mobile applications.
 
